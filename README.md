@@ -19,4 +19,6 @@ El presente archivo explica la creación de una API REST utilizando Flask.
 
 - Python 3.10
 
+initit
+
 
